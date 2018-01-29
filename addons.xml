@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Opengapps</name>
+            <description>Unofficial build for Oreo 8.1 by shovikishere</description>
+            <updated-at>2018-01-05</updated-at>
+            <size>77044698</size>
+            <download-link>https://drive.google.com/drive/folders/1qp5zKdmfGYRjRTb-7bU-vDId5eDdJaJJ</download-link>
+        </addon>
+        <addon>
+            <id>2</id>
+            <name>Magisk</name>
+            <description>The Universal Systemless Interface, to create an altered mask of the system without changing the system itself.</description>
+            <updated-at>2018-1-12</updated-at>
+            <size>6037384</size>
+            <download-link>http://tiny.cc/latestmagisk</download-link>
+        </addon>
+    </addons>
+</hash>

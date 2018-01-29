@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+    <RomName>Oreo-onyx</RomName>
+    <VersionName>aosp-8.1.0-20180130-onyx-YumeMichi</VersionName>
+    <VersionNumber type="integer">20180130</VersionNumber>
+    <DirectUrl>https://basketbuild.com/uploads/devs/YumeMichi/aosp-8.1.0-20180130-onyx-YumeMichi.zip</DirectUrl>
+    <HttpUrl>https://basketbuild.com/devs/YumeMichi</HttpUrl>
+    <Android>8.1.0</Android>
+    <CheckMD5>8661ebba04dccc184a95c6a66d5e7a92</CheckMD5>
+    <FileSize type="integer">335357614</FileSize>
+    <Developer>YumeMichi</Developer>
+    <WebsiteURL>https://forum.xda-developers.com/oneplus-x/development/rom-lineageos-15-0-t3672662</WebsiteURL>
+    <DonateURL>https://forum.xda-developers.com/donatetome.php?u=7093179</DonateURL>
+    <Changelog>
+        - Initial OTA support.
+    </Changelog>
+    <AddonCount>2</AddonCount>
+    <AddonsURL></AddonsURL>
+</ROM>
