@@ -12,17 +12,16 @@
     <WebsiteURL>https://forum.xda-developers.com/oneplus-x/development/rom-lineageos-15-0-t3672662</WebsiteURL>
     <DonateURL>https://forum.xda-developers.com/donatetome.php?u=7093179</DonateURL>
     <Changelog>
-        <![CDATA[
-        - Initial OTA support
-        - Fix GPS issue
-        - Drop rootless Substratum support
-        - Drop unused charging alert feature
-        - Add init.d support
-        - Disable Always On Display by default
-        - Unlock Tuner
-        - TEMP: Add logcat_debug service
-        - Merge OmniROM recent changes
-        ]]>
+### Changelog
+* Initial OTA support
+* Fix GPS issue
+* Drop rootless Substratum support
+* Drop unused charging alert feature
+* Add init.d support
+* Disable Always On Display by default
+* Unlock Tuner
+* TEMP: Add logcat_debug service
+* Merge OmniROM recent changes
     </Changelog>
     <AddonCount>0</AddonCount>
     <AddonsURL></AddonsURL>
