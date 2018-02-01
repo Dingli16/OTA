@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
     <RomName>Oreo-onyx</RomName>
-    <VersionName>aosp-8.1.0-20180130-onyx-YumeMichi</VersionName>
-    <VersionNumber type="integer">20180130</VersionNumber>
-    <DirectUrl>https://basketbuild.com/uploads/devs/YumeMichi/aosp-8.1.0-20180130-onyx-YumeMichi.zip</DirectUrl>
+    <VersionName>aosp-8.1.0-20180131-onyx-YumeMichi</VersionName>
+    <VersionNumber type="integer">20180131</VersionNumber>
+    <DirectUrl>https://basketbuild.com/uploads/devs/YumeMichi/aosp-8.1.0-20180131-onyx-YumeMichi.zip</DirectUrl>
     <HttpUrl>https://basketbuild.com/devs/YumeMichi</HttpUrl>
     <Android>8.1.0</Android>
-    <CheckMD5>1e6f92ea200e71d031aeabe6008c6cd8</CheckMD5>
-    <FileSize type="integer">335357614</FileSize>
+    <CheckMD5>8bfafb2aab8f400aa216e983e683b6ae</CheckMD5>
+    <FileSize type="integer">335453747</FileSize>
     <Developer>YumeMichi</Developer>
     <WebsiteURL>https://forum.xda-developers.com/oneplus-x/development/rom-lineageos-15-0-t3672662</WebsiteURL>
     <DonateURL>https://forum.xda-developers.com/donatetome.php?u=7093179</DonateURL>
     <Changelog>
-        - Initial OTA support.
+        - Initial OTA support
+        - Fix GPS issue
+        - Drop rootless Substratum support
+        - Drop unused charging alert feature
+        - Add init.d support
+        - Disable Always On Display by default
+        - Unlock Tuner
+        - TEMP: Add logcat_debug service
+        - Merge OmniROM recent changes
     </Changelog>
-    <AddonCount>2</AddonCount>
+    <AddonCount>0</AddonCount>
     <AddonsURL></AddonsURL>
 </ROM>
