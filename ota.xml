@@ -1,0 +1,21 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <OnePlus>
+            <Filename>aosp-8.1.0-20180320-onyx-YumeMichi-buggycam.zip</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://basketbuild.com/uploads/devs/YumeMichi/aosp/aosp-8.1.0-20180320-onyx-YumeMichi-buggycam.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description=""></ChangelogUrl>
+            <PaypalUrl
+                id="donation"
+                title=""
+                description=""></PaypalUrl>
+        </oneplus3>
+    </Stable>
+</SlimOTA>
