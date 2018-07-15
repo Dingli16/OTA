@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1526100147,
-      "filename": "aosp-8.1.0-20180512-onyx-YumeMichi.zip",
-      "id": "04d470570ab3f074e1aedaec85febd4fb7e52e54526df91326b130055085914f",
+      "datetime": 1531629395,
+      "filename": "omni-8.1.0-20180715-onyx-YumeMichi",
+      "id": "fdbce9f90f45669367ac826c74eccb0d9be5f95c7b7cabdf71d102b65db7f3c0",
       "romtype": "unofficial",
-      "size": 364097922,
-      "url": "https://github.com/Oreo-onyx/OTA/releases/download/release/aosp-8.1.0-20180512-onyx-YumeMichi.zip",
+      "size": 392767628,
+      "url": "https://basketbuild.com/uploads/devs/YumeMichi/omni/omni-8.1.0-20180715-onyx-YumeMichi.zip",
       "version": "8.1.0"
     }
   ]
